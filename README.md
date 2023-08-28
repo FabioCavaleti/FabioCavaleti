@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Fabio!!
-I'm Fabio, a computer science student at the University of São Paulo. I love technology and have some particular interest in information security, data science and competitive programming.
+## Muito prazer 👋 Eu sou o Fabio!!
+Olá, meu nome é Fabio Cavaleti, estudante de Ciências da computação na USP - São Carlos. Estou me especializando na área de inteligência artificial e ciência de dados e adoro discutir sobre esses assuntos. Se você se interessar, fique livre para me chamar nas redes sociais. Abraços!!
 ##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
